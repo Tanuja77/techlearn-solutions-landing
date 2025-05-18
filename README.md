@@ -13,7 +13,7 @@ A modern web browser (Chrome, Firefox, Edge, etc.)
 No frameworks or build tools required.
 Setup Instructions
 Download or clone this repository
-git clone https://github.com/yourusername/techlearn-landing-page.git
+git clone https://github.com/Tanuja77/techlearn-solutions-landing.git
 
 Simply download the ZIP file and extract it.(text)
 
