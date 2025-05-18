@@ -27,7 +27,7 @@ Follow these instructions to set up and run the project locally.
 
 1. **Download or clone this repository**
    ```bash
-   git clone https://github.com/yourusername/techlearn-landing-page.git
+   git clone https://github.com/Tanuja77/techlearn-solutions-landing.git
 
 
 Simply download the ZIP file and extract it.([text](<../TechLearn solutions.zip>))
